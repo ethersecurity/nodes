@@ -11,6 +11,8 @@ https://kohkei.supernode.me:7891
 https://mttsukuba.supernode.me:7891
 https://pegatennnag.supernode.me:7891
 https://shibuya.supernode.me:7891
+https://strategic-trader-1.supernode.me:7891
+https://strategic-trader-2.supernode.me:7891
 
 [wss]
 wss://aqualife1.supernode.me:7779
@@ -25,3 +27,5 @@ wss://kohkei.supernode.me:7779
 wss://mttsukuba.supernode.me:7779
 wss://pegatennnag.supernode.me:7779
 wss://shibuya.supernode.me:7779
+wss://strategic-trader-1.supernode.me:7779
+wss://strategic-trader-2.supernode.me:7779
