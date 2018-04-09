@@ -8,6 +8,7 @@ https://mnbhsgwbeta.supernode.me:7891
 https://mnbhsgwgamma.supernode.me:7891
 https://nemstrunk.supernode.me:7891
 https://nemstrunk2.supernode.me:7891
+https://nsm.supernode.me:7891
 https://kohkei.supernode.me:7891
 https://mttsukuba.supernode.me:7891
 https://pegatennnag.supernode.me:7891
@@ -25,6 +26,7 @@ wss://mnbhsgwbeta.supernode.me:7779
 wss://mnbhsgwgamma.supernode.me:7779
 wss://nemstrunk.supernode.me:7779
 wss://nemstrunk2.supernode.me:7779
+wss://nsm.supernode.me:7779
 wss://kohkei.supernode.me:7779
 wss://mttsukuba.supernode.me:7779
 wss://pegatennnag.supernode.me:7779
