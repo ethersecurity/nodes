@@ -15,6 +15,7 @@ https://pegatennnag.supernode.me:7891
 https://shibuya.supernode.me:7891
 https://strategic-trader-1.supernode.me:7891
 https://strategic-trader-2.supernode.me:7891
+https://thomas1.supernode.me.supernode.me:7891
 
 [wss]
 wss://aqualife1.supernode.me:7779
@@ -33,3 +34,4 @@ wss://pegatennnag.supernode.me:7779
 wss://shibuya.supernode.me:7779
 wss://strategic-trader-1.supernode.me:7779
 wss://strategic-trader-2.supernode.me:7779
+wss://thomas1.supernode.me.supernode.me:7779
