@@ -3,7 +3,6 @@ https://aqualife1.supernode.me:7891
 https://aqualife2.supernode.me:7891
 https://aqualife3.supernode.me:7891
 https://beny.supernode.me:7891
-https://happy.supernode.me:7891
 https://mnbhsgwbeta.supernode.me:7891
 https://mnbhsgwgamma.supernode.me:7891
 https://nemstrunk.supernode.me:7891
@@ -23,7 +22,6 @@ wss://aqualife1.supernode.me:7779
 wss://aqualife2.supernode.me:7779
 wss://aqualife3.supernode.me:7779
 wss://beny.supernode.me:7779
-wss://happy.supernode.me:7779
 wss://mnbhsgwbeta.supernode.me:7779
 wss://mnbhsgwgamma.supernode.me:7779
 wss://nemstrunk.supernode.me:7779
